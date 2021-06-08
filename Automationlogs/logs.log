@@ -1,0 +1,13 @@
+[INFO ] 2021-06-09 02:24:27.612 [main] UI_Page_Test - ******before class triggered******
+[INFO ] 2021-06-09 02:24:30.192 [main] UI_Page_Test - ******user successfully read username and password******
+[INFO ] 2021-06-09 02:24:30.193 [main] UI_Page_Test - ******before class ended*******
+[INFO ] 2021-06-09 02:24:30.338 [main] UI_Page_Test - *****inputTest is started******
+[INFO ] 2021-06-09 02:24:32.622 [main] UI_Page_Test - ******inputTest is ended*******
+[INFO ] 2021-06-09 02:24:32.809 [main] UI_Page_Test - *****buttonTest is started******
+[INFO ] 2021-06-09 02:24:33.396 [main] UI_Page_Test - ******buttonTest is ended*******
+[INFO ] 2021-06-09 02:24:33.407 [main] UI_Page_Test - *****selectTest is started******
+[INFO ] 2021-06-09 02:24:34.375 [main] UI_Page_Test - ******selectTest is ended*******
+[INFO ] 2021-06-09 02:24:34.392 [main] UI_Page_Test - *****alertTest is started******
+[INFO ] 2021-06-09 02:24:40.472 [main] UI_Page_Test - ******alertTest is ended*******
+[INFO ] 2021-06-09 02:24:40.483 [main] UI_Page_Test - *****framesTest is started******
+[INFO ] 2021-06-09 02:24:42.023 [main] UI_Page_Test - ******framesTest is ended*******

@@ -1,0 +1,5 @@
+com\qa\log4j\utils\ConfigReader.class
+com\qa\log4j\pages\UI_Page.class
+com\qa\log4j\factory\DriverFactory.class
+com\qa\log4j\utils\ElementUtil.class
+com\qa\log4j\utils\JavaScriptUtil.class

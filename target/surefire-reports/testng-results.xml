@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-08T20:54:16Z" name="Surefire suite" finished-at="2021-06-08T20:54:43Z" duration-ms="26336">
+    <groups>
+    </groups>
+    <test started-at="2021-06-08T20:54:16Z" name="Surefire test" finished-at="2021-06-08T20:54:43Z" duration-ms="26336">
+      <class name="com.qa.log4j.tests.UI_Page_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.log4j.tests.UI_Page_Test@2c3dec30]" started-at="2021-06-08T20:54:16Z" name="setUp" finished-at="2021-06-08T20:54:27Z" duration-ms="10859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="AccSetUp()[pri:0, instance:com.qa.log4j.tests.UI_Page_Test@2c3dec30]" started-at="2021-06-08T20:54:27Z" name="AccSetUp" finished-at="2021-06-08T20:54:30Z" duration-ms="2583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccSetUp -->
+        <test-method signature="inputTest()[pri:1, instance:com.qa.log4j.tests.UI_Page_Test@2c3dec30]" started-at="2021-06-08T20:54:30Z" name="inputTest" finished-at="2021-06-08T20:54:32Z" duration-ms="2410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputTest -->
+        <test-method signature="buttonTest()[pri:2, instance:com.qa.log4j.tests.UI_Page_Test@2c3dec30]" started-at="2021-06-08T20:54:32Z" name="buttonTest" finished-at="2021-06-08T20:54:33Z" duration-ms="605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buttonTest -->
+        <test-method signature="selectTest()[pri:3, instance:com.qa.log4j.tests.UI_Page_Test@2c3dec30]" started-at="2021-06-08T20:54:33Z" name="selectTest" finished-at="2021-06-08T20:54:34Z" duration-ms="975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectTest -->
+        <test-method signature="alertTest()[pri:4, instance:com.qa.log4j.tests.UI_Page_Test@2c3dec30]" started-at="2021-06-08T20:54:34Z" name="alertTest" finished-at="2021-06-08T20:54:40Z" duration-ms="6086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alertTest -->
+        <test-method signature="framesTest()[pri:5, instance:com.qa.log4j.tests.UI_Page_Test@2c3dec30]" started-at="2021-06-08T20:54:40Z" name="framesTest" finished-at="2021-06-08T20:54:42Z" duration-ms="1549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- framesTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.log4j.tests.UI_Page_Test@2c3dec30]" started-at="2021-06-08T20:54:42Z" name="tearDown" finished-at="2021-06-08T20:54:43Z" duration-ms="1031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.log4j.tests.UI_Page_Test -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
